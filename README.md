@@ -1,4 +1,4 @@
-# Data-Analysis-of-Diwalii-sales
+# Data-Analysis-on-Diwalii-sales
 
 I used python libraries like numpy, pandas, matplotlib and seaborn for analyzing Diwalii sales data.
 
